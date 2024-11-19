@@ -1,3 +1,4 @@
+ES:  
 # Licencia
 
 Este trabajo está licenciado bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional. Para ver una copia de esta licencia, visita [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -30,5 +31,34 @@ Para más detalles, consulta la [licencia completa](https://creativecommons.org/
 
 ## Notas
 Las bibliotecas Minim y controlP5 utilizadas en este software están licenciadas bajo la LGPL.  
-Copyright © RoberMartin-Dev (Roberto Martín).
+Copyright © RoberMartin-Dev (Roberto Martín).  
 
+EN:  
+# License
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## License Terms
+You are free to:
+Share and redistribute the material in any medium or format.
+
+### Attribution
+You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+### Non-Commercial
+You may not use the material for commercial purposes. This limitation does not affect the generated melodies, only the program, which cannot be sold.
+
+### No Derivatives
+If you remix, transform, or build upon the material, you may not distribute the modified material. It may only be used for personal purposes. If someone modifies the code and wants to distribute it (such as a mod or interface improvement), they would need explicit authorization from RoberMartin-Dev to do so.
+
+### Notices
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Summary
+Code visualization: Always allowed.
+Commercial use: Never allowed.
+Code modification: Not allowed, unless authorized.
+For more details, see the [full license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+
+## Notes
+The Minim and controlP5 libraries used in this software are licensed under the LGPL.  
+Copyright © RoberMartin-Dev (Roberto Martín).

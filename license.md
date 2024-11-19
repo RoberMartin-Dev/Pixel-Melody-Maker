@@ -1,4 +1,4 @@
-ES:  
+🟩 📜 ////////// Español ////////// 📜 🟩  
 # Licencia
 
 Este trabajo está licenciado bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional. Para ver una copia de esta licencia, visita [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -33,7 +33,7 @@ Para más detalles, consulta la [licencia completa](https://creativecommons.org/
 Las bibliotecas Minim y controlP5 utilizadas en este software están licenciadas bajo la LGPL.  
 Copyright © RoberMartin-Dev (Roberto Martín).  
 
-EN:  
+🟩 📜 ////////// English ////////// 📜 🟩   
 # License
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 

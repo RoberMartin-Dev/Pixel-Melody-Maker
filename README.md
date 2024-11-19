@@ -26,7 +26,7 @@ Pixel Melody Maker muestra una interfaz sencilla. No pretende ser una aplicació
 > Los audios se recogen por secciones. Si se utiliza el programa durante 5 minutos desde su inicio y se guarda el audio, ese primer audio durará 5 minutos. Si después se guarda otro audio de 2 minutos, se guardará el sonido desde el minuto 5 hasta el minuto 7 de uso del programa. Esto es importante pues que permite empezar de cero cada vez que se desea grabar algo de una forma extremadamente sencilla, sólo se debe guardar antes de iniciar la secuencia deseada y volver a guardar. Después es muy sencillo unir pistas o recortarlas con cualquier herramienta de edición (estoy trabajando en una).  
 
 ## Tecnologías
-Processing 4. Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto basado en Java, que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital. Lo había utilizado en varias ocasiones para trabajar con lectura y generación de imágenes, pero me sorprendió también su versatilidad con el sonido.  
+Processing 4. Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto, que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital. Lo había utilizado en varias ocasiones para trabajar con lectura y generación de imágenes, pero me sorprendió también su versatilidad con el sonido.  
 
 ## Contribuciones
 ¡Gracias por tu interés en contribuir a este proyecto! Aquí hay algunas formas en las que puedes ayudar:  
@@ -76,7 +76,7 @@ Pixel Melody Maker displays a simple interface. It is not intended to be a detai
 > The audios are collected by sections. If you use the program for 5 minutes from its start and save the audio, that first audio will last 5 minutes. If another 2-minute audio is then saved, the sound will be saved from minute 5 to minute 7 of using the program. This is important because it allows you to start from scratch every time you want to record something in an extremely simple way, you just have to save it before starting the desired sequence and save it again. Then it's very easy to join tracks or trim them with any editing tool (I'm working on one).  
 
 ## Technologies 
-Processing 4. Processing is an open source programming language and integrated development environment based on Java, which serves as a means for teaching and producing multimedia and interactive digital design projects. I had used it on several occasions to work with reading and generating images, but I was also surprised by its versatility with sound.
+Processing 4. Processing is an open source programming language and integrated development environment, which serves as a means for teaching and producing multimedia and interactive digital design projects. I had used it on several occasions to work with reading and generating images, but I was also surprised by its versatility with sound.
 
 ## Contributions
 Thank you for your interest in contributing to this project! Here are some ways you can help:

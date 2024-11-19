@@ -30,5 +30,5 @@ Para más detalles, consulta la [licencia completa](https://creativecommons.org/
 
 ## Notas
 Las bibliotecas Minim y controlP5 utilizadas en este software están licenciadas bajo la LGPL.  
-Copyright © RoberMartin-Dev (Roberto Martín)
+Copyright © RoberMartin-Dev (Roberto Martín).
 

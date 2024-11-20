@@ -17,9 +17,9 @@ Pixel Melody Maker muestra una interfaz sencilla. No pretende ser una aplicació
 ### Control
 1. **Cambiar tipo de sonido/onda**: Pixel Melody Maker permite utilizar 4 tipos de onda para generar sonidos diferentes. El cambio de sonido se puede realizar mediante los botones "SINE", "SAW", "TRIANGLE" y "SQUARE" de la interfaz o la *flecha derecha* del teclado.
 > Cada sonido tiene su nicho, pero siempre se pueden ir mezclando. Pulsa la flecha derecha mientras tocas tu melodía.
-3. **Modificar tempo**: Para la melodía automática, se puede modificar el tempo mediante un deslizador o con las *flechas arriba y abajo* del teclado. Esto hará que la melodía sea más lenta o más rápida.
+2. **Modificar tempo**: Para la melodía automática, se puede modificar el tempo mediante un deslizador o con las *flechas arriba y abajo* del teclado. Esto hará que la melodía sea más lenta o más rápida.
 > No pide el mismo ritmo un juego de carreras que uno de cartas, pero quien sabe.
-4. **Modificar volumen**: Tanto para las melodías automáticas como para las manuales, se ha implementado un deslizador de volumen.
+3. **Modificar volumen**: Tanto para las melodías automáticas como para las manuales, se ha implementado un deslizador de volumen.
 > Ambos deslizadores son accionables pulsando y deslizando con el ratón o simplemente moviendo la rueda al poner el cursor sobre ellos.
 4. **Guardar el audio**: Mediante la *flecha izquierda* del teclado, se pueden guardar audios en formato .wav. Cada audio llevará un número consecutivo al anterior no ocupado.
 > [!TIP]
@@ -67,9 +67,9 @@ Pixel Melody Maker displays a simple interface. It is not intended to be a detai
 ### Control
 1. **Change sound/wave type**: Pixel Melody Maker allows you to use 4 wave types to generate different sounds. Changing the sound can be done using the "SINE", "SAW", "TRIANGLE" and "SQUARE" buttons on the interface or the *right arrow* on the keyboard.
 > Each sound has its niche, but you can always mix them. Press the right arrow while playing your melody.
-3. **Modify tempo**: For the automatic melody, the tempo can be modified using a slider or with the *up and down arrows* on the keyboard. This will make the melody slower or faster.
+2. **Modify tempo**: For the automatic melody, the tempo can be modified using a slider or with the *up and down arrows* on the keyboard. This will make the melody slower or faster.
 > A racing game doesn't require the same pace as a card game, but who knows.
-4. **Modify volume**: For both automatic and manual melodies, a volume slider has been implemented.
+3. **Modify volume**: For both automatic and manual melodies, a volume slider has been implemented.
 > Both sliders can be operated by clicking and sliding with the mouse or simply by moving the wheel when placing the cursor over them.
 4. **Save the audio**: Using the *left arrow* on the keyboard, you can save audios in .wav format. Each audio will have a consecutive number to the previous unoccupied one.
 > [!TIP]
